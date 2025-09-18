@@ -1,0 +1,11 @@
+torch==2.1.0
+torchvision==0.16.0
+git+https://github.com/openai/CLIP.git
+faiss-cpu==1.7.4
+flask
+pillow
+numpy
+scipy
+requests
+python-dotenv
+pymysql
